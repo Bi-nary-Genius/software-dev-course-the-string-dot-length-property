@@ -18,13 +18,19 @@ Your task is to:
 let stringOne = "Coding Bootcamp";
 let stringTwo = "JavaScript";
 let stringThree = "";
-
 // Your task: Assign the length of each string to the corresponding variable
 let lengthOne;   // Length of stringOne
 let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
 // Your code here
+lengthOne = stringOne.length;
+ console.log(lengthOne);
 
+lengthTwo = stringTwo.length;
+ console.log(lengthTwo);
+
+lengthThree = stringThree.length;
+ console.log(lengthThree);
 
 
